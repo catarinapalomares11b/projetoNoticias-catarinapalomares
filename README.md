@@ -1,0 +1,1 @@
+# projetoNoticias-catarinapalomares
