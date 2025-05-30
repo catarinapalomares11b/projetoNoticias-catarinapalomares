@@ -80,6 +80,10 @@ header .mobile a {
     line-height: 1.5rem;
 }
 
+header .desktop {
+    display: none;
+}
+
 main {
     max-width: 1110px;
     margin-inline: auto;
@@ -207,10 +211,6 @@ main {
 
     header .desktop a:hover {
         color: var(--vermillion);
-    }
-
-    header .desktop {
-        display: none;
     }
 
     main {
